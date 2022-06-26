@@ -21,3 +21,23 @@ Bonus Ideas
 Make persistent scores in your browser's localStorage
 Add interesting music or sound effects to your game
 Deliverables
+
+Inspiration for this game:
+
+I had the opportunity to live and work in Vegas for a few years. It was great fun! But one thing I soon learned was that most Casino games are set up to favor the house, with the exception of a few. So, I wanted to create a game of chance that was purely a game of chance between all Players, with no favoratism for the House. Tired of being beat by the house? Hopefully this game will give you some overdue revenge by beating the House!
+
+Random Outcomes 
+The game is designed to be completely random and illustrate the randomness of the outcomes. After multiple rounds have been played one should expect to see a completely random pattern of winners. 
+
+Goal of the game: 
+
+Players choose the number of rounds they wish to play ahead of time. The Player with the most winnings at the end of the specified number of rounds wins. 
+
+How to play the game: 
+
+Each Player starts with a wallet of $1,000 (including the House). 1 to 4 Players can play. If only one Player that Player play's against the House.    
+1. Players first agree on the number of rounds they wish to play (from 1 to 10 rounds). 
+2. Round 1 begins - all Players place their bets. The total of their bets are reflected in the pot and subtracted from their wallet. 
+3. Players simultaneously roll a pair of dice. Whoever has the highest combination wins the round and the pot of money. In the event of a tie, the pot is split. The pot gets added to the winner(s) wallet. 
+4. The next round begins. 
+
