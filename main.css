@@ -1,6 +1,11 @@
 html {
     font-family: Sans-Serif;
     text-align: center;
+    
+    
+  }
+  body {
+    background-color:rgb(222, 144, 144)
   }
   
   .container {
